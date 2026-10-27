@@ -1,0 +1,28 @@
+{
+  "id": "./index.html",
+  "name": "Techno Bundle",
+  "short_name": "Techno Bundle",
+  "description": "طراحی باندلینگ توسن تکنو؛ کارتخوان محصول هدف و کش‌لس محصول محرک",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#064F91",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
